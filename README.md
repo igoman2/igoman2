@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20igoman2&fontSize=90)
 
 # Han Junho
- Front-End Developer
+💻   Frontend Engineer
 <!-- <div >
 stack⭐️
 </div> -->
@@ -15,9 +15,10 @@ stack⭐️
 
 
 
-<!-- ⚙️Frontend Engineer
 
-Stack -->
+
+
+🛠 Stack
 
 ![](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
