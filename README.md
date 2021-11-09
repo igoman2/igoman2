@@ -27,4 +27,4 @@ stack⭐️
 ![](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/Nuxt.js-000000?style=flat-square&logo=Nuxt.js&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-
+![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
