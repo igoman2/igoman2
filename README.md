@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vuetify&logoColor=white)
-![](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white) -->
 ![](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=Styled-components&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
