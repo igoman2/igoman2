@@ -24,11 +24,11 @@
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white) -->
 ![](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
 ![](https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=Styled-components&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
