@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20igoman2&fontSize=90)
 
 # Han Junho
-💻   Frontend Developer 
+💻   Frontend Developer
+
+✨ [2022.08 ~ ] Yanolja F&B Solution
+
+[2022.05 ~ 2022.08] Yanolja   
+[2021.01 ~ 2022.05] Ebridge-World
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Figoman2%2Fhit-counter&count_bg=%23FF67C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
