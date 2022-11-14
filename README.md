@@ -3,8 +3,13 @@
 # Han Junho
 💻   Frontend Developer
 
-✨ [2022.08 ~ ] Yanolja F&B Solution
+✨ Currently in.   
+[2022.08 ~ ] Yanolja F&B Solution
 
+
+   
+   
+   
 [2022.05 ~ 2022.08] Yanolja   
 [2021.01 ~ 2022.05] Ebridge-World
 
