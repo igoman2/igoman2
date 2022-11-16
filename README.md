@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20igoman2&fontSize=90)
 
 # Han Junho
-💻   Frontend Developer
+💻   Frontend Developer  
+[Notion]()   
+ [![Tech Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&logo=tistory&link=https://igoman2.tistory.com/)](https://igoman2.tistory.com/)  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/준호-한-382ba1224/)](https://www.linkedin.com/in/준호-한-382ba1224/)  
+    [![Linkedin Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://fascinated-stem-a42.notion.site/CS-eed6132395614da385636b300b4ce19d)](https://fascinated-stem-a42.notion.site/CS-eed6132395614da385636b300b4ce19d)  
+
+
+
 
 ✨ Currently in.   
 [2022.08 ~ ] Yanolja F&B Solution
-
-
-   
    
    
 [2022.05 ~ 2022.08] Yanolja   
