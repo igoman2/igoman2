@@ -2,10 +2,7 @@
 
 # Han Junho
 💻   Frontend Developer  
-[Notion]()   
- [![Tech Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&logo=tistory&link=https://igoman2.tistory.com/)](https://igoman2.tistory.com/)  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/준호-한-382ba1224/)](https://www.linkedin.com/in/준호-한-382ba1224/)  
-    [![Linkedin Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://fascinated-stem-a42.notion.site/CS-eed6132395614da385636b300b4ce19d)](https://fascinated-stem-a42.notion.site/CS-eed6132395614da385636b300b4ce19d)  
+
 
 
 
@@ -17,12 +14,14 @@
 [2022.05 ~ 2022.08] Yanolja   
 [2021.01 ~ 2022.05] Ebridge-World
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Figoman2%2Fhit-counter&count_bg=%23FF67C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/준호-한-382ba1224/)](https://www.linkedin.com/in/준호-한-382ba1224/)  [![Linkedin Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://fascinated-stem-a42.notion.site/CS-eed6132395614da385636b300b4ce19d)](https://fascinated-stem-a42.notion.site/CS-eed6132395614da385636b300b4ce19d)  [![Tech Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&logo=tistory&link=https://igoman2.tistory.com/)](https://igoman2.tistory.com/)  
 <br/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoman2&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoman2&show_icons=true&theme=radical)  
   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Figoman2%2Fhit-counter&count_bg=%23FF67C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 <br/>
 
