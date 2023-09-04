@@ -8,11 +8,10 @@
 
 
 ✨ Currently in.   
-[2022.05 ~ ] Yanolja   
+[2023.08 ~ Ignite] Yanolja   
 
-<!-- [2022.08 ~ ] Yanolja F&B Solution -->
-   
-   
+
+[2022.05 ~ 2023.08] Yanolja & Yanolja F&B Solution
 [2021.01 ~ 2022.05] Ebridge-World
 
 
