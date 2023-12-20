@@ -8,7 +8,7 @@
 
 
 ✨ Currently in.   
-[2023.08 ~ ] Ignite
+[2023.08 ~ ] IGNITE
 
 
 [2022.05 ~ 2023.08] Yanolja & Yanolja F&B Solution
