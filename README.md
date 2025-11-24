@@ -8,6 +8,4 @@
 
 ## Contributions
 ### [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg)
-- **PR**: Fixed dynamic config update for placeholderText ([Link]([PR링크](https://github.com/froala/react-froala-wysiwyg/pull/431)))
-- Implemented dynamic `placeholderText` updates using Froala's official API
-- Tech: React, JavaScript, Component Lifecycle
+- **PR**: Fixed dynamic config update for placeholderText ([Link]([https://github.com/froala/react-froala-wysiwyg/pull/431]))
